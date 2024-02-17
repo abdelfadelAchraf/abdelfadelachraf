@@ -21,7 +21,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-![giphy](https://github.com/abdelfadelAchraf/abdelfadelachraf/assets/159788854/6e1a8669-9616-4a64-bd0c-f8cbe80af298)
 
 
 
