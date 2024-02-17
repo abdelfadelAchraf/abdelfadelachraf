@@ -26,6 +26,9 @@
 
 ![cartoon-656_256](https://github.com/abdelfadelAchraf/abdelfadelachraf/assets/159788854/03a53908-9ef0-433b-beb5-b81a57d6d3bb)
 
+
+![giphy](https://github.com/abdelfadelAchraf/abdelfadelachraf/assets/159788854/35f36516-cf61-4e24-bc10-08171345ff4e)
+
 ---
 chnologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco 
