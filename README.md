@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Achraf</h1>
+<marquee class="css2" direction="right"><h1>Hey , I'am Achraf ^ ^</h1></marquee>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <h3 align="left">Connect with me:</h3>
