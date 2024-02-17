@@ -20,15 +20,11 @@
   Hi,I'm ACHRAF
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+![giphy](https://github.com/abdelfadelAchraf/abdelfadelachraf/assets/159788854/b1a84ffb-b95d-4433-a36a-0970ac68cf6f)
 
-
-
-
-![cartoon-656_256](https://github.com/abdelfadelAchraf/abdelfadelachraf/assets/159788854/03a53908-9ef0-433b-beb5-b81a57d6d3bb)
-
-
-![giphy](https://github.com/abdelfadelAchraf/abdelfadelachraf/assets/159788854/35f36516-cf61-4e24-bc10-08171345ff4e)
-
+  
+</div>
 ---
 chnologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco 
