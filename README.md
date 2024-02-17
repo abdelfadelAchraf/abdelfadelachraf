@@ -22,11 +22,9 @@
 </h1>
 
 
-
 ![Uploading cow-59_256.gif…]()
 
 ---
-[cow-59_256](https://github.com/abdelfadelAchraf/abdelfadelachraf/assets/159788854/639494eb-8f4d-4517-8207-e5e5bb5d43ac)
 chnologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco 
 ---
