@@ -21,11 +21,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+---![Uploading cartoon-656_256.gif…]()
 
-
-![Uploading cow-59_256.gif…]()
-
----
 chnologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco 
 ---
