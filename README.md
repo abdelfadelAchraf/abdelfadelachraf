@@ -20,11 +20,11 @@
   Hi,I'm ACHRAF
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
+
 ![giphy](https://github.com/abdelfadelAchraf/abdelfadelachraf/assets/159788854/6e1a8669-9616-4a64-bd0c-f8cbe80af298)
 
 
-</div>
+
 ---
 chnologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco 
