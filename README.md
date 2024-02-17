@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="<https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJmY29qZ3MzN29rOXN3dnp0dmkwdHByNHgzeDBnc3R3dHNidXFiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fz258ow8AknvLO3do9/giphy-downsized.gif" width="600" height="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJmY29qZ3MzN29rOXN3dnp0dmkwdHByNHgzeDBnc3R3dHNidXFiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fz258ow8AknvLO3do9/giphy.gif" width="600" height="300" />
 </div>
 ---
 ### 👨‍🦲_technologist: About Me :
