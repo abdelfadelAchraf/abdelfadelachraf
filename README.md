@@ -20,11 +20,10 @@
   Hi,I'm ACHRAF
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJmY29qZ3MzN29rOXN3dnp0dmkwdHByNHgzeDBnc3R3dHNidXFiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fz258ow8AknvLO3do9/giphy.gif" width="600" height="300" />
-</div>
+
 ---
-### 👨‍🦲_technologist: About Me :
+### 👨‍🦲_te![cow-59_256](https://github.com/abdelfadelAchraf/abdelfadelachraf/assets/159788854/639494eb-8f4d-4517-8207-e5e5bb5d43ac)
+chnologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco 
 ---
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
