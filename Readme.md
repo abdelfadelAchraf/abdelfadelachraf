@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=abdelfadelAchraf&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemp1eGt5MThoaWx3d2d5djRuZTExeGJqYXFidHVlaGMyaGoycWRhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUOwGfV7UYp0E6cb1m/giphy.gif" width="600" height="300"/>
+
 </div>
 <h1 align="center" font-weight="bolder">
   Hi,I'm ACHRAF
