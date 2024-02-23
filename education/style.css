@@ -1,0 +1,183 @@
+
+:root{
+    --black:#0B0C10;
+    --gray:#1F2833;
+    --light:#66FCF1;
+    --not-light:#ccd9e2;
+    --white:#fff;
+    --sidebar:260px
+}
+body{
+    background-color: var(--gray)  !important;
+    color: var(--white) !important;
+    font-family: "Anta", sans-serif !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+}
+a{
+    text-decoration: none !important;
+    color: var(--white) !important;
+    transition: all 0.4s ease !important;
+
+}
+.full-height{
+    min-height: 100vh;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    border-bottom: solid rgba(117, 117, 117, 0.11) 2px;
+}
+.color{
+    color: var(--light) !important;
+    font-weight: bolder;
+}
+.bg-base{
+    background: var(--gray)  !important;
+    border-radius: 13px;
+    border: solid 2px var(--not-light);
+}
+.shadow-effect{
+    transition: all 0.5s ;
+}
+.shadow-effect:hover{
+   transform: scale(1.05);
+   box-shadow: 0 2px 2px 2px rgba(255, 255, 255, 0.281);
+}
+.iconbox{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    background-color: var(--light);
+    border-radius: 15px;
+    color: var(--black);
+}
+/*NAVBAR*/
+.navbar{
+    background-color: var(--not-light);
+}
+.container a span{
+    color: var(--white) !important;
+}
+.container a img{
+    width: 200px;
+}
+.navbar .nav-link{
+    color: var(--white) !important;
+}
+.navbar .nav-link:hover{
+    color: var(--black) !important;
+}
+.navbar .nav-link.active{
+    color: var(--black) !important;
+}
+@media (min-width:992px) {
+    .navbar{
+        min-height: 100vh;
+        width: var(--sidebar);
+        background: linear-gradient(rgba(69, 163, 158, 0.644),rgba(45, 58, 57, 0.89)), url("intele.jpg");
+        background-position: center;
+        background-size: cover;
+    }
+    
+    #content-wrapper{
+        padding-left: var(--sidebar);
+    }
+}
+
+/*btn*/
+.btn{
+    padding: 12px 28px   !important;
+    font-weight: 700  !important;
+  
+
+}
+.btn-brand{
+    background-color: var(--not-light) !important;
+    border: solid 2px transparent  !important;
+    color: var(--black) !important;
+   
+}
+.btn-brand:hover{
+    border: solid 2px var(--white)  !important;
+    background-color: transparent !important;
+    color: var(--white) !important;
+}
+.link-custom{
+    font-weight: 700;
+    position: relative;
+}
+.link-custom::after{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: var(--light);
+    top: 110%;left: 0;
+    transition:  all 0.4s;
+    margin-top: 2px;
+}
+.link-custom:hover::after{
+    width: 100%;
+    background-color:rgba(102, 252, 242, 0.247);
+}
+/*work section*/
+
+.card-custom-content{
+    width: 300px;
+}
+.card-custom .card-custom-image{
+  overflow: hidden;
+}
+.card-custom .card-custom-image img{
+    transition: all .4s ease;
+    width: 100%;
+    height: 300px;
+    border-radius:  15px;
+    background-position: center;
+    background-size: cover;
+}
+.card-custom .card-custom-image:hover img{
+    transform: scale(1.1);
+}
+/*contact*/
+.form-group .btn-brand{
+    background-color: var(--light) !important;
+    border: solid 2px transparent  !important;
+   
+}
+.form-group .btn-brand:hover{
+    border: solid 2px var(--white)  !important;
+    color: var(--white) !important;
+    background-color: transparent !important;
+}
+.form-group .form-control{
+    background-color: var(--white);
+    color: var(--black);
+}
+.form-group .form-control:focus{
+   box-shadow: none;
+   background-color: transparent;
+   color: var(--white);
+}
+
+/*footer*/
+.social-icons a{
+    width: 40px; height: 40px;
+    display: inline-flex;
+    align-items: center;justify-content: center;
+    background-color: var(--light);
+    border-radius: 15px;
+    color: var(--black) !important;
+}
+.social-icons a:hover{
+    transform: rotate(45deg);
+}
+.transperency{
+    background-color: transparent !important;
+}
